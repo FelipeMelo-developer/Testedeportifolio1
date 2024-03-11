@@ -14,7 +14,7 @@ body {
     height: 100vh;
     box-sizing: border-box;
     width: 100%;
-    background-image:url(/img/fundo_Astronauta.png);
+    background-image:url(/Testedeportifolio1/img/fundo_Astronauta.png);
     background-size: cover; 
     background-repeat: no-repeat;
     background-position: center;
@@ -71,7 +71,7 @@ body {
     background-color: #dd9a7d5d;
     
     box-shadow: 4px 4px 20px 0px rgba(1, 8, 14, 0.15);
-    background-image: url(img/Ruido.png);
+    background-image: url(/Testedeportifolio1/img/Ruido.png);
     background-size: 100% 100%;
     position: relative;
 }
